@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RxjavaTest.iml" filepath="$PROJECT_DIR$/RxjavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXjavaTest.iml" filepath="$PROJECT_DIR$/RXjavaTest.iml" />
+      <module fileurl="file://C:\workspace\RXjavaTest\RxjavaTest.iml" filepath="C:\workspace\RXjavaTest\RxjavaTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\workspace\RXjavaTest\app\app.iml" filepath="C:\workspace\RXjavaTest\app\app.iml" />
     </modules>
   </component>
 </project>
